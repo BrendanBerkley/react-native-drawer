@@ -1,3 +1,9 @@
+## Fork of a fork: Why this exists
+
+Wanted to have a "drawer" that appeared from the bottom. Didn't work on the root-two version. Saw that bigsassy had a fork that accomplished this, but that user wasn't keeping up with root-two's updates. Rather than do a PR over there, I just made this fork quickly.
+
+## Original readme
+
 React Native Drawer is in need of maintainers. Specifically it requires updating to use Animated lib. There is however an excellent, albeit less configurable option in [React Native Side Menu](https://github.com/react-native-community/react-native-side-menu) which we highly recommend. If you are interested in revamping React Native Drawer please get in touch!
 
 ## React Native Drawer
